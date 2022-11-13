@@ -11,8 +11,8 @@
 </head>
 <body>
 	<header>
-		<i><img src="res/logo3.png" height="80" width="80"></i>
 		<nav>
+			<i><img src="res/logo3.png" height="80" width="80"></i>
 			<div align="right">
 				<a href="#wrapper" onclick="return scrol('wrapper');">Cek Meter</a>
 				<a href="#info" onclick="return scrol('info');">Info</a>

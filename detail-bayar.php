@@ -43,33 +43,33 @@ $total = $tghn + $denda + 1600;
 			</tr>
 			<tr>
 				<td>Penggunaan</td>
-				<td>: <?= $tgh['jumlah_meter'] ?> KWH</td>
+				<td> <?= $tgh['jumlah_meter'] ?> KWH</td>
 			</tr>
 			<tr>
 				<td>Tagihan</td>
 				<td>
-					: Rp <?= $tagihan ?>
+					 Rp <?= $tagihan ?>
 					<input type="hidden" name="tagihan" class="inputext" value="<?= $tghn ?>">
 				</td>
 			</tr>
 			<tr>
 				<td>Denda</td>
 				<td>
-					: Rp <?= number_format($denda,2) ?>
+					 Rp <?= number_format($denda,2) ?>
 					<input type="hidden" name="denda" class="inputext" value="<?= $denda ?>">
 				</td>
 			</tr>
 			<tr>
 				<td>Biaya admin</td>
 				<td>
-					: Rp 1,600.00
+					 Rp 1,600.00
 					<input type="hidden" name="badmin" class="inputext" value="1600">
 				</td>
 			</tr>
 			<tr>
 				<td>Total</td>
 				<td>
-					: Rp <?= number_format($total,2) ?>
+					 Rp <?= number_format($total,2) ?>
 					<input type="hidden" name="idtgh" value="<?= $tgh['id_tagihan'] ?>">
 				</td>
 			</tr>

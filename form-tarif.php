@@ -39,11 +39,11 @@ if (isset($_POST['edit'])) {
 			</tr>
 			<tr>
 				<td>Daya</td>
-				<td>:<input type="number" min="0" name="daya" class="inputext" required></td>
+				<td><input type="number" min="0" name="daya" class="inputext" required></td>
 			</tr>
 			<tr>
 				<td>Harga</td>
-				<td>:<input type="number" min="0" name="harga" class="inputext" required></td>
+				<td><input type="number" min="0" name="harga" class="inputext" required></td>
 			</tr>
 			<tr>
 				<td><a href="tarif.php" class="button">Kembali</a></td>
@@ -59,11 +59,11 @@ if (isset($_POST['edit'])) {
 			</tr>
 			<tr>
 				<td>Daya</td>
-				<td>:<input type="text" name="daya" class="inputext" value="<?= $trf['daya']; ?>" readonly></td>
+				<td><input type="text" name="daya" class="inputext" value="<?= $trf['daya']; ?>" readonly></td>
 			</tr>
 			<tr>
 				<td>Tarif KWH</td>
-				<td>:<input type="number" min="0" name="harga" class="inputext" value="<?= $trf['tarif_kwh']; ?>" required>
+				<td><input type="number" min="0" name="harga" class="inputext" value="<?= $trf['tarif_kwh']; ?>" required>
 					<input type="hidden" name="id" value="<?= $trf['id_tarif']; ?>"></td>
 			</tr>
 			<tr>

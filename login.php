@@ -32,11 +32,11 @@ if (isset($_POST['login'])) {
 				</tr>
 				<tr>
 					<td>Username</td>
-					<td>:<input type="text" name="petugas" class="inputext" placeholder="Masukkan Nama Petugas" required></td>
+					<td><input type="text" name="petugas" class="inputext" placeholder="Masukkan Nama Petugas" required></td>
 				</tr>
 				<tr>
 					<td>Password</td>
-					<td>:<input type="password" name="pass" class="inputext" placeholder="Password petugas" required></td>
+					<td><input type="password" name="pass" class="inputext" placeholder="Password petugas" required></td>
 				</tr>
 				<tr>
 					<td></td>

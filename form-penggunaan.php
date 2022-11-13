@@ -64,7 +64,7 @@ if (isset($_POST['edit'])) {
 			</tr>
 			<tr>
 				<td>No meter</td>
-				<td>:<input type="number" name="meter" class="inputext" value="<?= $mter ?>" readonly></td>
+				<td><input type="number" name="meter" class="inputext" value="<?= $mter ?>" readonly></td>
 			</tr>
 			<tr>
 				<?php if (cek_penggunaan($_GET['pgn'])): ?>
@@ -105,15 +105,15 @@ if (isset($_POST['edit'])) {
 			</tr>
 			<tr>
 				<td>Tahun</td>
-				<td>:<input type="number" name="tahun" class="inputext" value="<?= $tahun ?>" <?= $tagthn ?>></td>
+				<td><input type="number" name="tahun" class="inputext" value="<?= $tahun ?>" <?= $tagthn ?>></td>
 			</tr>
 			<tr>
 				<td>Meter awal</td>
-			   <td>:<input type="number" name="awal" min="0" class="inputext" value="<?= $awal ?>" <?= $tag ?> ></td>
+			   <td><input type="number" name="awal" min="0" class="inputext" value="<?= $awal ?>" <?= $tag ?> ></td>
 			</tr>
 			<tr>
 				<td>Meter akhir</td>
-				<td>:<input type="number" name="akhir" min="<?= $awal ?>" class="inputext" required></td>
+				<td><input type="number" name="akhir" min="<?= $awal ?>" class="inputext" required></td>
 			</tr>
 			<tr>
 				<td>

@@ -1,6 +1,5 @@
 <?php require_once 'des/header-petugas.php';
 $error = '';
-var_dump($_FILES);
 if (isset($_POST['baru'])) {
 	$username = trim($_POST['name']);
 	$password = trim($_POST['pass']);

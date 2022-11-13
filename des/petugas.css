@@ -1,5 +1,5 @@
 * {
-	margin: 5px;
+	/* margin: 5px; */
 	padding: 5px;
 	color: white;
 	font-family: sans-serif;
@@ -32,7 +32,7 @@ option {
 
 #data td, #data th {
     border: 1px solid #ddd;
-    padding: 8px;
+    padding: 1px;
     height: 20px;
 }
 
@@ -43,7 +43,7 @@ option {
 #data th {
     padding-top: 12px;
     padding-bottom: 12px;
-    text-align: left;
+    text-align: center;
     background-color: rgb(255,128,0);
     color: white;
 }
@@ -85,8 +85,8 @@ option {
 }
 #login {
 	position: absolute;
-	top: 25%; left: 34%;
-	width: 30%;height: auto;
+	top: 25%; left: 25%;
+	width: 50%;height: auto;
 	border-radius: 25px;
 	background-color: rgba(255,128,0,0.9);
 	padding: 1%;
