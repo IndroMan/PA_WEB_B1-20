@@ -71,7 +71,7 @@ fitur yang dapat diakses oleh petugas dibatasi dengan level dari setiap petugas
 <p>Disini menampilkan fitur-fitur apa saja yang dapat diakses oleh petugas yang di batasi oleh level dari petugas
 <img src="SS/petugas/tampilan petugas.jpeg" alt="Alt text" title="Optional title">
 <li>Menu Tarif</li>
-<p>Disini Menampilkan data tarif dan terdapat fitur untuk menambah, menubah dan menghapus data tarif
+<p>Disini Menampilkan data tarif dan terdapat fitur untuk menambah, mengubah dan menghapus data tarif
 <img src="SS/petugas/tarif.jpeg" alt="Alt text" title="Optional title">
 <li>Tambah Tarif</li>
 <p>Ini adalah form untuk menambahkan tarif baru dengan memasukkan daya dan tarif baru
