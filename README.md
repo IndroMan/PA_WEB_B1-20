@@ -36,7 +36,7 @@
 Website ini mampu melihat data tagihan dan penggunaan bagi pelanggan dan mengelola data tarif, petugas, pelanggan,
 penggunaan, pembayaran dan tagihan.</p>
 
-<h3>Cara Penggunaan Aplikasi</h3>
+<h3>Cara Penggunaan Website</h3>
 <p>Berikut cara penggunaan aplikasi website tagihan PLN, mulai dari pemakaian untuk pelanggan dan petugas.</p>
 
 <h4>Fitur-fitur yang ada untuk pelanggan</h4>
@@ -130,6 +130,6 @@ fitur yang dapat diakses oleh petugas dibatasi dengan level dari setiap petugas
 <li>Menu Tagihan</li>
 <p>Ini adalah menu yang menampilkan data tagihan dari semua nomor meter yang berisikan no meter, nama, bulan, tahun, penggunaan dan status pembayaran</p>
 <img src="SS/petugas/tagihan.jpeg" alt="Alt text" title="Optional title">
-<li><h4>Menu logout</h4><li>
+<li><h4>Menu logout</h4></li>
 <p>Jika menekan menu logout maka petugas akan langsung diarahkan kembali ke menu login
 </ul>
