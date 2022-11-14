@@ -5,6 +5,8 @@
 
 <h3>Asisten Lab<h3>
 <b>Kandika Prima Putra(1915016015)    & Delfan Rynaldo Laden(1915016069)</b>
+
+-
 <h3>Kebutuhan Fungsional Sistem<h3>
 
 <ul>
