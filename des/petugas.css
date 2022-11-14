@@ -32,7 +32,7 @@ option {
 
 #data td, #data th {
     border: 1px solid #ddd;
-    padding: 1px;
+    padding: 10px;
     height: 20px;
 }
 
