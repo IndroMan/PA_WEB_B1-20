@@ -82,4 +82,52 @@ fitur yang dapat diakses oleh petugas dibatasi dengan level dari setiap petugas
 <li>Hapus Tarif</li>
 <p>Ini adalah tampilan ketika kita ingin menghapus data tarif, konfirmasi dahulu apakah benar kita ingin menghapus data tarif
 <img src="SS/petugas/Dtarif.jpeg" alt="Alt text" title="Optional title">
+<li>Menu Petugas</li>
+<p>Disini Menampilkan data petugas dan terdapat fitur untuk menambah, mengubah dan menon/aktifkan data petugas
+<img src="SS/petugas/petugas.jpeg" alt="Alt text" title="Optional title">
+<li>Tambah Petugas</li>
+<p>Ini adalah form untuk menambahkan petugas baru dengan memasukkan Username, Password, Nama File(gambar), File gambar(foto petugas), Tugas
+<img src="SS/petugas/Tpetugas.jpeg" alt="Alt text" title="Optional title">
+<li>Update Petugas</li>
+<p>Ini adalah form untuk menambahkan petugas baru dengan memasukkan Username, Password, Nama File(gambar), File gambar(foto petugas), Tugas baru yang ingin di update
+<img src="SS/petugas/Upetugas.jpeg" alt="Alt text" title="Optional title">
+<li>Non/Aktifkan Petugas</li>
+<p>Ini adalah tampilan ketika kita ingin menon/aktifkan data petugas, konfirmasi dahulu apakah benar kita ingin menon/aktifkan data petugas
+<img src="SS/petugas/Npetugas.jpeg" alt="Alt text" title="Optional title">
+<li>Menu Pelanggan</li>
+<p>Disini Menampilkan data pelanggan dan terdapat fitur untuk menambah, mengubah, menghapus dan melihat nomor meter yang mati
+<img src="SS/petugas/pelanggan.jpeg" alt="Alt text" title="Optional title">
+<li>Tambah pelanggan</li>
+<p>Ini adalah form untuk menambahkan pelanggan baru dengan memasukkan nama, alamat, nomor telpon dan tarif
+<img src="SS/petugas/Tpelanggan.jpeg" alt="Alt text" title="Optional title">
+<li>Update pelanggan</li>
+<p>Ini adalah form untuk menambahkan pelanggan baru dengan memasukkan nama, alamat, nomor telpon dan tarif baru yang ingin di update
+<img src="SS/petugas/Upelanggan.jpeg" alt="Alt text" title="Optional title">
+<li>Hapus pelanggan</li>
+<p>Ini adalah tampilan ketika kita ingin Menghapus data pelanggan, konfirmasi dahulu apakah benar kita ingin menon/aktifkan data pelanggan
+<img src="SS/petugas/Dpelanggan.jpeg" alt="Alt text" title="Optional title">
+<li>Menu Penggunaan</li>
+<p>Disini Menampilkan data penggunaan dengan memasukkan nomor meter yang ingin di cari, dan disini terdapat fitur untuk menambahkan meter akhir untuk memasukkan data penggunaan
+<img src="SS/petugas/penggunaan.jpeg" alt="Alt text" title="Optional title">
+<li>Tambah Meter Akhir</li>
+<p>Ini adalah form untuk menambahkan penggunaan baru dengan memasukkan meter akhir
+<img src="SS/petugas/Tpenggunaan.jpeg" alt="Alt text" title="Optional title">
+<li>Update Meter Akhir</li>
+<p>Ini adalah form untuk menambahkan penggunaan baru dengan memasukkan meter akhir yang baru
+<img src="SS/petugas/Upenggunaan.jpeg" alt="Alt text" title="Optional title">
+<li>Menu Pembayaran</li>
+<p>Disini Menampilkan data pembayaran yang belum dibayar dengan memasukkan no meter yang ingin di cari serta dapat melakukan pembayaran dan print struk pembayaran
+<img src="SS/petugas/pembayaran.jpeg" alt="Alt text" title="Optional title">
+<li>Detail Pembayaran</li>
+<p>Ini adalah form untuk melakukan pembayaran, hanya admin dengan level tertentu dapat melakukan aksi ini, setelah menekan button bayar petugas akan di arahkan ke table history pembayaran dan dapat melakukan print
+<img src="SS/petugas/Dbayar.jpeg" alt="Alt text" title="Optional title">
+<li>History Pembayaran</li>
+<p>Ini adalah table yang menampilkan history pembayaran yang telah dilakukan</p>
+<img src="SS/petugas/Hbayar.jpeg" alt="Alt text" title="Optional title">
+<li>Print</li>
+<p>Button prin dilakukan untuk aksi print struk pembayaran</p>
+<img src="SS/petugas/print.jpeg" alt="Alt text" title="Optional title">
+<li>Menu Tagihan</li>
+<p>Ini adalah menu yang menampilkan data tagihan dari semua nomor meter yang berisikan no meter, nama, bulan, tahun, penggunaan dan status pembayaran</p>
+<img src="SS/petugas/tagihan.jpeg" alt="Alt text" title="Optional title">
 </ul>
