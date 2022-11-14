@@ -60,3 +60,26 @@ no meter yang di input
 <p>Pelanggan dapat melihat Kontak dari Admin Website
 <img src="SS/pelanggan/kontak.jpeg" alt="Alt text" title="Optional title">
 </ul>
+
+<h4>Fitur-fitur Petugas</h4>
+<ul>
+<li>Login</li>
+<p> Sebelum dapat megakses fitur-fitur untuk mengelola data, petugas diharuskan untuk login terlebih dahulu,
+fitur yang dapat diakses oleh petugas dibatasi dengan level dari setiap petugas
+<img src="SS/petugas/login.jpeg" alt="Alt text" title="Optional title">
+<li>Halaman Petugas</li>
+<p>Disini menampilkan fitur-fitur apa saja yang dapat diakses oleh petugas yang di batasi oleh level dari petugas
+<img src="SS/petugas/tampilan petugas.jpeg" alt="Alt text" title="Optional title">
+<li>Menu Tarif</li>
+<p>Disini Menampilkan data tarif dan terdapat fitur untuk menambah, menubah dan menghapus data tarif
+<img src="SS/petugas/tarif.jpeg" alt="Alt text" title="Optional title">
+<li>Tambah Tarif</li>
+<p>Ini adalah form untuk menambahkan tarif baru dengan memasukkan daya dan tarif baru
+<img src="SS/petugas/Ttarif.jpeg" alt="Alt text" title="Optional title">
+<li>Update Tarif</li>
+<p>Ini adalah form untuk megubah data tarif yang telah di input, dengan memasukkan daya atau tarif terbaru yang ingin kita ubah maka tarif akan terubah
+<img src="SS/petugas/Utarif.jpeg" alt="Alt text" title="Optional title">
+<li>Hapus Tarif</li>
+<p>Ini adalah tampilan ketika kita ingin menghapus data tarif, konfirmasi dahulu apakah benar kita ingin menghapus data tarif
+<img src="SS/petugas/Dtarif.jpeg" alt="Alt text" title="Optional title">
+</ul>
