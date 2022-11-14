@@ -30,3 +30,33 @@
 <h3>Perancangan</h3>
 <h5>ERD</h5>
 <img src="database/ERD.jpeg" alt="Alt text" title="Optional title">
+
+<h3>Tentang Website</h3>
+<p>Website tagihan PLN ini merupakan sebuah website untuk mengelola dan melakukan transaksi pembayaran tagihan PLN.
+Website ini mampu melihat data tagihan dan penggunaan bagi pelanggan dan mengelola data tarif, petugas, pelanggan,
+penggunaan, pembayaran dan tagihan.</p>
+
+<h3>Cara Penggunaan Aplikasi</h3>
+<p>Berikut cara penggunaan aplikasi website tagihan PLN, mulai dari pemakaian untuk pelanggan dan petugas.</p>
+
+<h4>Fitur-fitur yang ada untuk pelanggan</h4>
+<ul>
+<li>Tampilan Untuk Pelanggan</li>
+<p> Pelanggan dapat melihat data tagihan dan penggunaan dengan menginputkan no meter, lalu ada info tentang PLN, Kotak Saran
+dan Kontak Kami</p>
+<img src="SS/pelanggan/cek meter.jpeg" alt="Alt text" title="Optional title">
+<li>Cek Tagihan Dan Penggunaan</li>
+<p>Pelanggan menginputkan no meter, lalu tekan cari dan website akan menampilkan data tagihan dan penggunaan pelanggan sesuai dengan
+no meter yang di input
+<img src="SS/pelanggan/input meter.jpeg" alt="Alt text" title="Optional title">
+<img src="SS/pelanggan/hasil cm.jpeg" alt="Alt text" title="Optional title">
+<li>Info</li>
+<p>Pelanggan dapat melihat informasi tentang PLN
+<img src="SS/pelanggan/info.jpeg" alt="Alt text" title="Optional title">
+<li>Saran</li>
+<p>Pelanggan dapat memberikan saran terhadap petugas Website
+<img src="SS/pelanggan/saran.jpeg" alt="Alt text" title="Optional title">
+<li>Kontak</li>
+<p>Pelanggan dapat melihat Kontak dari Admin Website
+<img src="SS/pelanggan/kontak.jpeg" alt="Alt text" title="Optional title">
+</ul>
