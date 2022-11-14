@@ -130,4 +130,6 @@ fitur yang dapat diakses oleh petugas dibatasi dengan level dari setiap petugas
 <li>Menu Tagihan</li>
 <p>Ini adalah menu yang menampilkan data tagihan dari semua nomor meter yang berisikan no meter, nama, bulan, tahun, penggunaan dan status pembayaran</p>
 <img src="SS/petugas/tagihan.jpeg" alt="Alt text" title="Optional title">
+<li><h4>Menu logout</h4><li>
+<p>Jika menekan menu logout maka petugas akan langsung diarahkan kembali ke menu login
 </ul>
