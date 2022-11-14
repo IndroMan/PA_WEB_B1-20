@@ -15,4 +15,18 @@
 <li>Petugas dengan level tertentu dapat melihat data penggunaan pelanggan dan menambahkan meter akhir pelanggan</li>
 <li>Petugas dengan level tertentu dapat mengelola data pembayaran pelanggan dan melihat history pembayaran</li>
 <li>Petugas dengan level tertentu dapat melihat data tagihan dari pelanggan</li>
-<li>Petugas bisa logout</li>
+<li>Petugas bisa logout</li></ul>
+
+<h3>Kebutuhan Non Fungsional</h3>
+
+<ul>
+<li>Sistem berbasis Web</li>
+<li>Dapat dijalankan pada OS minimal ram 1 GB</li>
+<li>Minimum perangkat menggunakan windows 7</li>
+<li>Google Chrome sebagai browser</li>
+<li>Pelatihan Petugas agar memahami fitur yang ada melalui manual book</li>
+</ul>
+
+<h3>Perancangan</h3>
+<h5>ERD</h5>
+<img src="database/ERD.jpeg" alt="Alt text" title="Optional title">
